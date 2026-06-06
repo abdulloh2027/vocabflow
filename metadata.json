@@ -1,0 +1,6 @@
+{
+  "name": "VocabFlow",
+  "description": "A full-featured vocabulary learning Progressive Web App with text-to-speech, background audio, dictionary, tests, and local auth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
